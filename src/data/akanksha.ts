@@ -4,12 +4,12 @@ export const akanksha = {
   opening: "Okay, this is a little random... but I made something for you.",
   note: "So... I had a little time, a few ideas, and apparently the urge to turn them into an entire website. No particular occasion, no big reason. I just thought it would be fun to make something a little different. So here you go. I hope it makes you smile.",
   photos: [
-    { src: "/images/akanksha/photo-1.svg", caption: "a little moment ♡", alt: "Soft pink flowers in a sunny garden" },
-    { src: "/images/akanksha/photo-2.svg", caption: "main character energy ✨", alt: "A little illustrated sun above a peach horizon" },
-    { src: "/images/akanksha/photo-3.svg", caption: "this one belongs in a scrapbook 🎀", alt: "A delicate pink bow on warm cream paper" },
-    { src: "/images/akanksha/photo-4.svg", caption: "a tiny bit of sunshine ☀️", alt: "A cheerful yellow flower on a lavender field" },
-    { src: "/images/akanksha/photo-5.svg", caption: "just a cute little memory", alt: "A little strawberry and tiny blossoms" },
-    { src: "/images/akanksha/photo-6.svg", caption: "because the camera roll deserves appreciation ♡", alt: "A cozy illustrated cup and little heart" },
+    { src: "/images/akanksha/photo-1.jpeg", caption: "a little moment ♡", alt: "Akanksha smiling in a red embroidered shawl beneath yellow flowers" },
+    { src: "/images/akanksha/photo-2.jpeg", caption: "main character energy ✨", alt: "Akanksha in a traditional red outfit and floral headpiece" },
+    { src: "/images/akanksha/photo-3.jpeg", caption: "this one belongs in a scrapbook 🎀", alt: "Akanksha in a bright pink sari outdoors" },
+    { src: "/images/akanksha/photo-4.jpeg", caption: "a tiny bit of sunshine ☀️", alt: "Akanksha posing in a pastel striped sweater in the sunshine" },
+    { src: "/images/akanksha/photo-5.jpeg", caption: "just a cute little memory", alt: "Akanksha in a lime green traditional outfit at a decorated venue" },
+    { src: "/images/akanksha/photo-6.jpeg", caption: "because the camera roll deserves appreciation ♡", alt: "A close-up portrait of Akanksha in a colorful traditional cap" },
   ],
   appreciations: [
     ["your own kind of magic ✨", "Never underestimate the good energy you bring into a room."],
