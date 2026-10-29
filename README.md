@@ -15,10 +15,10 @@ Open http://localhost:3000. Create a production build with `npm run build`, then
 
 ## Replace the placeholder photos
 
-Replace the seven files in `public/images/akanksha/` while keeping their names, or update the matching paths in `src/data/akanksha.ts`:
+The seven personal photos are stored in `public/images/akanksha/`:
 
-- `photo-1.svg` through `photo-6.svg` are the six scrapbook cards.
-- `final-photo.svg` is the small image on the closing note.
+- `photo-1.jpeg` through `photo-6.jpeg` are the six scrapbook cards.
+- `final-photo.jpeg` is the small image on the closing note.
 
 You can use JPG, PNG, WebP, or SVG. Update the corresponding `src` and `alt` values in the `photos` list for the six cards and the closing image path in `src/app/page.tsx`. Personal photos stay in this project and are not uploaded to a third party.
 
